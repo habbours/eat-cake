@@ -37,9 +37,9 @@ His videos were helpful for reviewing material we already went over in class and
 
 **P5.js References/Examples:**
 
-Loading images & resizing them: https://p5js.org/reference/#/p5/image
-Draggable box demo: https://editor.p5js.org/projects/B13wH5T3
-Mouse events: https://p5js.org/reference/#group-Events
+[Loading images & resizing them:]( https://p5js.org/reference/#/p5/image )
+[Draggable box demo:]( https://editor.p5js.org/projects/B13wH5T3 )
+[Mouse events:]( https://p5js.org/reference/#group-Events )
 
 **Images:**
 
