@@ -37,29 +37,29 @@ His videos were helpful for reviewing material we already went over in class and
 
 **P5.js References/Examples:**
 
-[Loading images & resizing them:]( https://p5js.org/reference/#/p5/image )
-[Draggable box demo:]( https://editor.p5js.org/projects/B13wH5T3 )
-[Mouse events:]( https://p5js.org/reference/#group-Events )
+* [Loading images & resizing them]( https://p5js.org/reference/#/p5/image )
+* [Draggable box demo]( https://editor.p5js.org/projects/B13wH5T3 )
+* [Mouse events]( https://p5js.org/reference/#group-Events )
 
 **Images:**
 
-Cake: http://www.clker.com/clipart-cake-pink-icing.html
-Table: http://clipartmag.com/dining-table-clipart
-Orange gumdrop: https://www.clipart.email/clipart/orange-gumdrop-clipart-242824.html
-Pink gumdrop: https://www.clipart.email/download/6220085.html
-Red gumdrop: https://toppng.com/show_download/223670/lliella-yummyscrummy-gumdrop3-gum-drop-clip-art/large
-Green gumdrop: https://www.pinterest.com/seibert/candy-clipart/
-Green m’n’m: https://www.iconfinder.com/icons/312566/chocolate_color_colour_green_m%26m_icon
-Orange m’n;m: https://www.clipartmax.com/middle/m2i8i8G6m2m2b1A0_m-m-clipart-single-orange-m-and-m-candy/
-Pretzel:https://www.clipart.email/clipart/chocolate-covered-pretzels-clipart-51908.html
-Cherry: http://pngimg.com/imgs/fruits/cherry/
-Blueberries: http://pngimg.com/imgs/fruits/blueberries/
-Strawberry: http://clipart-library.com/free/strawberry-clipart-transparent-background.html
-Raspberry: https://www.pinclipart.com/maxpin/iRiRim/
-Sprinkles: https://www.transparentpng.com/cats/confetti-179.html
-Chocolate chips: https://pngimage.net/chocolate-chip-png-2/
-Chocolate balls: https://www.pngjoy.com/freepng/chocolates/30/
-M’N’M’s: https://www.shutterstock.com/search/m%26m+chocolate
-Whipped cream: https://favpng.com/png_view/sour-cream-icing-whipped-cream-white-soft-serve-ice-creams-cream-meringue-png/qy4hfWpF
+* [Cake]( http://www.clker.com/clipart-cake-pink-icing.html)
+* [Table]( http://clipartmag.com/dining-table-clipart)
+* [Orange gumdrop]( https://www.clipart.email/clipart/orange-gumdrop-clipart-242824.html)
+* [Pink gumdrop](https://www.clipart.email/download/6220085.html)
+* [Red gumdrop](https://toppng.com/show_download/223670/lliella-yummyscrummy-gumdrop3-gum-drop-clip-art/large)
+* [Green gumdrop]( https://www.pinterest.com/seibert/candy-clipart/)
+* [Green m’n’m](https://www.iconfinder.com/icons/312566/chocolate_color_colour_green_m%26m_icon)
+* [Orange m’n'm]( https://www.clipartmax.com/middle/m2i8i8G6m2m2b1A0_m-m-clipart-single-orange-m-and-m-candy/)
+* [Pretzel](https://www.clipart.email/clipart/chocolate-covered-pretzels-clipart-51908.html)
+* [Cherry]( http://pngimg.com/imgs/fruits/cherry/)
+* [Blueberries]( http://pngimg.com/imgs/fruits/blueberries/)
+* [Strawberry](http://clipart-library.com/free/strawberry-clipart-transparent-background.html)
+* [Raspberry](https://www.pinclipart.com/maxpin/iRiRim/)
+* [Sprinkles](https://www.transparentpng.com/cats/confetti-179.html)
+* [Chocolate chips]( https://pngimage.net/chocolate-chip-png-2/)
+* [Chocolate balls]( https://www.pngjoy.com/freepng/chocolates/30/)
+* [M’N’M’s]( https://www.shutterstock.com/search/m%26m+chocolate)
+* [Whipped cream]( https://favpng.com/png_view/sour-cream-icing-whipped-cream-white-soft-serve-ice-creams-cream-meringue-png/qy4hfWpF)
 
 
