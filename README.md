@@ -4,7 +4,7 @@
 
 A basic drag and drop style game which uses a class constructor to define the draggable objects. When I first discovered internet games as a child, I was obsessed with dress up games and always dreamed of making my own; this project is a culmination of that dream (almost- it’s a cake and not a doll).
 
-Link to the game: 
+[Click here to try it out]( https://habbours.github.io/eat-cake/)
 
 # Original Goals:
 
