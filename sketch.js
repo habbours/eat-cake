@@ -11,7 +11,6 @@ function preload () {
   gumOrange = loadImage('images/orangegumdrop.png');
   gumGreen = loadImage('images/greengumdrop.png');
   sprinkles = loadImage('images/sprinkles.png');
-  candle = loadImage('images/candle.png');
   blueberries = loadImage('images/blueberries.png');
   cherry = loadImage('images/cherry.png');
   chocoballs = loadImage('images/chocoballs.png');
